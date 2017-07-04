@@ -1,0 +1,7 @@
+Start-time: 8.5	EndTime: 9
+Start-time: 10	EndTime: 11
+Start-time: 12.5	EndTime: 14
+Start-time: 16	EndTime: 17.5
+Start-time: 20	EndTime: 21
+Start-time: 22	EndTime: 22.5
+Start-time: 25.5	EndTime: 27.5

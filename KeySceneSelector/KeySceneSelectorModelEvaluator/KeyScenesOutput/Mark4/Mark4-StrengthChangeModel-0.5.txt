@@ -1,0 +1,4 @@
+Start-time: 10789200	Interval: 449550
+Start-time: 11238750	Interval: 449550
+Start-time: 22027950	Interval: 449550
+Start-time: 24275700	Interval: 449550

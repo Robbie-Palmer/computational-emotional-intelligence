@@ -1,0 +1,469 @@
+{
+  "luis_schema_version": "1.3.0",
+  "name": "NLU using emotions",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "None"
+    },
+    {
+      "name": "Question How"
+    },
+    {
+      "name": "Question What"
+    },
+    {
+      "name": "Question Where"
+    },
+    {
+      "name": "Question Who"
+    },
+    {
+      "name": "Question Why"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Action",
+      "children": [
+        "Action Subject"
+      ]
+    },
+    {
+      "name": "Person"
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [],
+  "actions": [],
+  "model_features": [],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "what are you doing?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what is it doing?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what is she doing?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what are they doing?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what is he doing?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "how could she do that?",
+      "intent": "Question How",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "how could you do that?",
+      "intent": "Question How",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "how did you do that?",
+      "intent": "Question How",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "how could they do that?",
+      "intent": "Question How",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "why would you say that?",
+      "intent": "Question Why",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "why would you do that?",
+      "intent": "Question Why",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "why did that happen?",
+      "intent": "Question Why",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "where did they go?",
+      "intent": "Question Where",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "where did i put it?",
+      "intent": "Question Where",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "where did she put it?",
+      "intent": "Question Where",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "where has it gone?",
+      "intent": "Question Where",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "who did that?",
+      "intent": "Question Who",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "who said that?",
+      "intent": "Question Who",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 1,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "why would that happen?",
+      "intent": "Question Why",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "where are you going?",
+      "intent": "Question Where",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "why would he do that?",
+      "intent": "Question Why",
+      "entities": [
+        {
+          "entity": "Person",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 4,
+          "endPos": 4
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what is going on?",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action",
+          "startPos": 2,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "how did that happen?",
+      "intent": "Question How",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "what are you doing",
+      "intent": "Question What",
+      "entities": [
+        {
+          "entity": "Action::Action Subject",
+          "startPos": 2,
+          "endPos": 2
+        },
+        {
+          "entity": "Action",
+          "startPos": 3,
+          "endPos": 3
+        }
+      ]
+    }
+  ]
+}

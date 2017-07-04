@@ -1,0 +1,39 @@
+                    - 0.01:	Consensus Match Increase = NaN%	False Positive Reduction = NaN%	Perc of Total Video =  0.00%
+                    - 0.02:	Consensus Match Increase = - 100.00%	False Positive Reduction =  100.00%	Perc of Total Video =  1.79%
+                    - 0.03:	Consensus Match Increase = - 100.00%	False Positive Reduction =  100.00%	Perc of Total Video =  1.79%
+                    - 0.04:	Consensus Match Increase = - 100.00%	False Positive Reduction = - 28.74%	Perc of Total Video =  5.36%
+                    - 0.05:	Consensus Match Increase =  60.00%	False Positive Reduction =  22.76%	Perc of Total Video =  8.93%
+                    - 0.06:	Consensus Match Increase =  60.00%	False Positive Reduction =  22.76%	Perc of Total Video =  8.93%
+                    - 0.07:	Consensus Match Increase =  14.29%	False Positive Reduction =  17.24%	Perc of Total Video =  12.50%
+                    - 0.08:	Consensus Match Increase =  14.29%	False Positive Reduction =  17.24%	Perc of Total Video =  12.50%
+                    - 0.09:	Consensus Match Increase =  77.78%	False Positive Reduction =  14.18%	Perc of Total Video =  16.07%
+                    - 0.10:	Consensus Match Increase =  45.45%	False Positive Reduction = - 5.33%	Perc of Total Video =  19.64%
+                    - 0.11:	Consensus Match Increase =  45.45%	False Positive Reduction = - 5.33%	Perc of Total Video =  19.64%
+                    - 0.12:	Consensus Match Increase =  23.08%	False Positive Reduction =  10.88%	Perc of Total Video =  23.21%
+                    - 0.13:	Consensus Match Increase =  14.29%	False Positive Reduction =  17.24%	Perc of Total Video =  25.00%
+                    - 0.14:	Consensus Match Increase =  14.29%	False Positive Reduction =  17.24%	Perc of Total Video =  25.00%
+                    - 0.15:	Consensus Match Increase =  6.67%	False Positive Reduction =  9.89%	Perc of Total Video =  26.79%
+                    - 0.16:	Consensus Match Increase =  6.67%	False Positive Reduction =  9.89%	Perc of Total Video =  26.79%
+                    - 0.17:	Consensus Match Increase = - 5.88%	False Positive Reduction =  20.49%	Perc of Total Video =  30.36%
+                    - 0.18:	Consensus Match Increase = - 5.88%	False Positive Reduction =  20.49%	Perc of Total Video =  30.36%
+                    - 0.19:	Consensus Match Increase = - 5.88%	False Positive Reduction =  20.49%	Perc of Total Video =  30.36%
+                    - 0.20:	Consensus Match Increase = - 15.79%	False Positive Reduction =  8.53%	Perc of Total Video =  33.93%
+                    - 0.21:	Consensus Match Increase = - 23.81%	False Positive Reduction = - 1.15%	Perc of Total Video =  37.50%
+                    - 0.22:	Consensus Match Increase = - 23.81%	False Positive Reduction = - 1.15%	Perc of Total Video =  37.50%
+                    - 0.23:	Consensus Match Increase =  4.35%	False Positive Reduction = - 9.15%	Perc of Total Video =  41.07%
+                    - 0.24:	Consensus Match Increase =  4.35%	False Positive Reduction = - 9.15%	Perc of Total Video =  41.07%
+                    - 0.25:	Consensus Match Increase =  4.35%	False Positive Reduction = - 9.15%	Perc of Total Video =  41.07%
+                    - 0.26:	Consensus Match Increase = - 4.00%	False Positive Reduction = - 0.41%	Perc of Total Video =  44.64%
+                    - 0.27:	Consensus Match Increase = - 4.00%	False Positive Reduction = - 0.41%	Perc of Total Video =  44.64%
+                    - 0.28:	Consensus Match Increase =  23.08%	False Positive Reduction =  3.45%	Perc of Total Video =  46.43%
+                    - 0.29:	Consensus Match Increase =  23.08%	False Positive Reduction =  3.45%	Perc of Total Video =  46.43%
+                    - 0.30:	Consensus Match Increase =  18.52%	False Positive Reduction =  7.02%	Perc of Total Video =  48.21%
+                    - 0.31:	Consensus Match Increase =  14.29%	False Positive Reduction =  10.34%	Perc of Total Video =  50.00%
+                    - 0.32:	Consensus Match Increase =  14.29%	False Positive Reduction =  10.34%	Perc of Total Video =  50.00%
+                    - 0.33:	Consensus Match Increase =  14.29%	False Positive Reduction =  10.34%	Perc of Total Video =  50.00%
+                    - 0.34:	Consensus Match Increase =  10.34%	False Positive Reduction =  13.44%	Perc of Total Video =  51.79%
+                    - 0.35:	Consensus Match Increase =  10.34%	False Positive Reduction =  13.44%	Perc of Total Video =  51.79%
+                    - 0.36:	Consensus Match Increase =  6.67%	False Positive Reduction =  16.32%	Perc of Total Video =  53.57%
+                    - 0.37:	Consensus Match Increase =  6.67%	False Positive Reduction =  16.32%	Perc of Total Video =  53.57%
+                    - 0.38:	Consensus Match Increase =  3.23%	False Positive Reduction =  12.79%	Perc of Total Video =  55.36%
+                    - 0.39:	Consensus Match Increase =  0.00%	False Positive Reduction =  9.48%	Perc of Total Video =  57.14%
